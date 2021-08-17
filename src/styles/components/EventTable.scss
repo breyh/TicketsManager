@@ -1,0 +1,21 @@
+.table-modified{
+    border-radius: 10px;
+    background-color: white;
+    margin-left:50px;
+    margin-right:50px;
+    box-shadow: 0 4px 5px -2px gray;
+}
+
+.table>:not(caption)>*>* {
+    padding: 1rem;
+}
+
+th {
+    width: auto;
+    color: $dark-blue;
+}
+
+td {
+    width: auto;
+    color: $dark-gray;
+}

@@ -1,0 +1,32 @@
+// colors
+$gray: #F4F5F8;
+$dark-gray:#8196B2;
+$green: #C2F6F3;
+$dark-green: #1ABDB5;
+$dark-blue: #15355E;
+$light-red: #FFDEE1;
+$dark-red: #F54555;
+
+//spacing
+
+.spacing-btw {
+    justify-content: space-between;
+}
+
+//status
+.status-green{
+    background-color: $green;
+    color: $dark-green;
+}
+.status-blue{
+    background-color: #DDEEFF;
+    color: #449AFF
+}
+.status-red{
+    background-color:$light-red;
+    color: $dark-red;
+}
+
+a{
+    display:inline !important;
+}

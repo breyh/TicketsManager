@@ -1,0 +1,20 @@
+.search-menu{
+    background-color: white;
+    color: $dark-gray;
+    display: flex;
+    padding: 0.8rem;
+    input{
+        border: none;
+    }
+    select{
+        border:none;
+    }
+}
+
+.btn-search{
+    background-color: $dark-blue;
+    border: none;
+    color:white;
+    border-radius: 5px;
+    width: 5rem;
+}

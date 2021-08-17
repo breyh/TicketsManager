@@ -1,0 +1,32 @@
+.element-table{
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 2px -2px gray;
+    background-color: white;
+    margin:1rem  2.5rem 0rem 2.5rem;
+    padding:1rem;
+}
+
+.message-analysis{
+    margin: 0.1rem;
+    background-color: $gray;
+    margin: 1rem;
+    padding-top: 0.5rem;
+
+}
+
+.box-message{
+    background-color: white;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+.isActive:hover{
+    border-bottom: solid 2px $dark-blue;
+    text-decoration: none;
+    color: black;
+}
+.isActive:visited{
+    border-bottom: solid 2px $dark-blue;
+}
+

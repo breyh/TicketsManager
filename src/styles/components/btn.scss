@@ -1,0 +1,52 @@
+.btn-clear{
+    background-color: $gray;
+    border-radius: 0.5rem;
+    color: $dark-blue;
+    border:none;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    width: 9rem;
+}
+
+.btn-clear-gray{
+    background-color: $gray;
+    border-radius: 0.5rem;
+    color: $dark-blue;
+    border:none;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    width: 7rem;
+}
+.btn-dark-blue{
+    background-color: $dark-blue;
+    border-radius: 10px;
+    color: $gray;
+    border:none;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    width: 7rem;
+
+}
+.btn-dark-blue-add{
+    background-color: $dark-blue;
+    border-radius: 10px;
+    color: $gray;
+    border:none;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    width: 7.5rem;
+    float:right;
+}
+
+.tag-open{
+    background-color: $green;
+    border: none;
+    color: $dark-green;
+    text-align: center;
+    padding: 0.5rem;
+    width: 6.5rem;
+    margin: 1.5rem;
+}
+
+
